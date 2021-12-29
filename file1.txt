@@ -1,0 +1,4 @@
+git remote repositories is mainly used for code sharing
+git remote repositories like
+github,gitlab,git
+
